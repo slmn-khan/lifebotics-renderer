@@ -1,0 +1,4 @@
+com/liferay/lifebotics/renderer/LfrbotsCPContentListEntryRenderer.java
+ com.liferay.lifebotics.renderer.LfrbotsCPContentListEntryRenderer
+com/liferay/lifebotics/renderer/LifeboticsRenderer.java
+ com.liferay.lifebotics.renderer.LifeboticsRenderer

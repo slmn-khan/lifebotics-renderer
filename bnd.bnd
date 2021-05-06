@@ -1,0 +1,4 @@
+Bundle-Name: liferaybotics-renderer
+Bundle-SymbolicName: com.liferay.lifebotics.renderer
+Bundle-Version: 1.0.0
+Web-ContextPath: /liferaybotics-renderer
